@@ -1,7 +1,7 @@
 package org.example;
 
 public class TypeCar {
-    private String type; // "Automatic" немесе "Manual"
+    private String type;
 
     public TypeCar(String type) {
         this.type = type;
